@@ -1,5 +1,4 @@
-
-# A modern, responsive portfolio website built with Next.js 16, React 19, and Tailwind CSS v4.
+ A modern, responsive portfolio website built with Next.js 16, React 19, and Tailwind CSS v4.
 
 ## Prerequisites
 
@@ -9,7 +8,10 @@
 
 ## Getting Started
 
-### 1. Clone   
+### 1. Clone  
+```bash
+clone https://github.com/yathrib-04/My-portifoilo
+```
 
 ### 2. Install Dependencies
 
@@ -35,6 +37,3 @@ yarn dev
 
 The application will start at [http://localhost:3000](http://localhost:3000)
 
-### 4. Open in Browser
-
-Open your browser and navigate to `http://localhost:3000` to see your portfolio.
