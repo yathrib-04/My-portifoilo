@@ -21,7 +21,7 @@ export default function ProjectsPage() {
       technologies: ["TypScirpt", "Nest.js", "SCSS", "MySQL"],
       image: "/images/restaurant.png",
       githubUrl: "https://github.com/yathrib-04/Habesha-Restaurant",
-      liveUrl: "https://habesha-restaurant.com",
+      liveUrl: "https://customer-kappa-opal.vercel.app/",
     },
     {
       number: "02",
@@ -43,7 +43,7 @@ export default function ProjectsPage() {
       technologies: ["React", "Node.js", "MySQL"],
       image: "/images/evangadi-forum.png",
       githubUrl: "https://github.com/yathrib-04/Evangadi-Forum",
-      liveUrl: "https://evangadi-forum.com",
+      liveUrl: "https://evangadforum.com",
     },
     {
       number: "04",
@@ -54,7 +54,7 @@ export default function ProjectsPage() {
       technologies: ["Flutter", "Swift", "Dart"],
       image: "/images/guardian-app.png",
       githubUrl: "https://github.com/yathrib-04/Guardian-app",
-      liveUrl: "https://guardian-app.com",
+      liveUrl: "https://guardiapp.com",
     },
     {
       number: "05",
@@ -65,7 +65,7 @@ export default function ProjectsPage() {
       technologies: ["React", "Vite", "Express", "MongoDB"],
       image: "/images/safenet.png",
       githubUrl: "https://github.com/yourusername/safenet",
-      liveUrl: "https://safenet.com",
+      liveUrl: "https://safnet.com",
     },
   ]
 
